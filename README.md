@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vince Swu</h1>
-<h3 align="center">Not the guy she told you not to worry about.</h3>
+<h3 align="center">Speaks fluent code and sarcasm.</h3>
 
 - 🌱 I’m currently learning **Assembly Language.**
 
-- ⚡ Did you know? **I'm Awesome!**
+- ⚡ Fun fact **You know it's cold outside when you go outside and it's cold.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

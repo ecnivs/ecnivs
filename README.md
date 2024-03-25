@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Assembly Language.<br><br>    ⚡ Fun fact: One day, you'll stumble upon an error for which StackOverflow doesn't hold the magic solution.</h4>
+<h4 align="left">🌱 I use Assembly for fun.<br><br>    ⚡ Fun fact: One day, you'll stumble upon an error for which StackOverflow doesn't hold the magic solution.</h4>
 
 ###
 

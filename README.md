@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Blossom**
+ 🔭 Currently working on **things no one asked for**
  
- 🌱 I’m currently learning **Assembly**
+ 🌱 Learning **Assembly** because "user-friendly" is a myth created by weaklings
 
- ⚡ Fun fact **Good things come to those who wait**, and wait, and wait…
+ 🗣️ **Fun fact**: It works on my machine!
 
  </div>
  

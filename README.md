@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ My Superpowers ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vim,neovim,python,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,vim,neovim,python,flask,linux" />
     <img src="https://skillicons.dev/icons?i=java,bash,arch,raspberrypi,kali" /><br>
 </div>
 

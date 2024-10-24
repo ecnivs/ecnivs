@@ -38,24 +38,24 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,python,java,c,md,flask"/>
-    <img src="https://skillicons.dev/icons?i=bash,linux,arch,raspberrypi,kali," />
-  
+    <img src="https://skillicons.dev/icons?i=bash,linux,arch,raspberrypi,kali," />  
   <br>
 </div>
-
-<br/>
-<hr/>
+<br/><hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ecnivs/ecnivs/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ecnivs/ecnivs/output/github-contribution-grid-snake.svg" />  
   <br/><br/><br/>
 </div>
-
 <hr/>
 
+<div align="center">
+  <h2 align="center">✨ LeetCode Flex ✨</h2>
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ecnivs?theme=dark&font=Nunito&ext=heatmap"/>
+</p> </h2><hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -68,7 +68,6 @@
 <div align=right>
   <img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"  />
 </div>
-
 
 <hr/>
 

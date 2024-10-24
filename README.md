@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,python,java,c,md,flask"/>
-    <img src="https://skillicons.dev/icons?i=vim,neovim,bash,linux,arch,raspberrypi,kali," />
+    <img src="https://skillicons.dev/icons?i=bash,linux,arch,raspberrypi,kali," />
   
   <br>
 </div>

@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://wa.me/+918837005671" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" target="_blank" />
   </a>
 </div>
 
@@ -37,8 +37,10 @@
 <h2 align="center">⚒️ My Superpowers ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vim,neovim,python,flask,java" />
-    <img src="https://skillicons.dev/icons?i=bash,linux,arch,raspberrypi,kali,md," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,python,java,c,md,flask" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,bash,linux,arch,raspberrypi,kali," />
+  
+  <br>
 </div>
 
 <br/>

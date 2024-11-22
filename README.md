@@ -15,7 +15,7 @@
  
  🌱 Learning **Assembly** because "user-friendly" is a myth created by weaklings
 
- 🗣️ **Fun fact**: It works on my machine!
+ 🗣️ Who needs comments? Future me will figure it out.
 
  </div>
  

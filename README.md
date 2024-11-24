@@ -27,10 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.youtube.com/@ecnivs">
-    <img src="https://img.shields.io/badge/YouTube-333333?style=for-the-badge&logo=youtube&logoColor=red" />
-  </a>
-  <a href="https://wa.me/+918837005671" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" target="_blank" />
+    <img src="https://img.shields.io/badge/YouTube-D32F2F?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 

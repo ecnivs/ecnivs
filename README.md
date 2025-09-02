@@ -53,11 +53,14 @@
 </div>
 <hr/>
 
+<!-- 
 <div align="center">
   <h2 align="center">✨ LeetCode Flex ✨</h2>
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ecnivs?theme=dark&font=Nunito&ext=heatmap"/>
 </p> </h2><hr/>
+-->
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>

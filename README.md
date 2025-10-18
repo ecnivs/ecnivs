@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ahoy,+Loser!+⚓️;+I'm+Vince+Swu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ahoy,+Matey!+⚓️;+I'm+Vince+Swu!;" />
 </h1>
 
 <h3 align="center">I use Arch btw</h3>
@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 Currently working on **things no one asked for**
+ 🔭 Building the things **nobody else** bothers to build
  
- 🌱 Learning **Assembly** because "user-friendly" is a myth created by weaklings
+ 🌱 Learning **Assembly** because "user-friendly" is boring
 
- 🗣️ Who needs comments? Future me will figure it out.
+ 🗣️ Comments are optional; Clean code is mandatory
 
 <br/>
  </div>

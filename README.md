@@ -22,7 +22,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:vinceswu88@gmail.com">
+  <a href="mailto:hello@ecnivs.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ecnivs" target="_blank">

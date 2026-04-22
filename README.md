@@ -24,9 +24,6 @@
   <a href="https://www.youtube.com/@ecnivs">
     <img src="https://img.shields.io/badge/YouTube-D32F2F?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/s/8zQEqGv">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
 </div>
 <hr/>
 

@@ -27,19 +27,6 @@
 </div>
 <hr/>
 
- <!--
-<h2 align="center">⚒️ My Superpowers ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,c,rust,md,bash"/><br>
-    <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width="50">
-    <img src="https://skillicons.dev/icons?i=godot,flask"/>
-    <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,kali,"/>
-  <br>
-</div>
-<br/><hr/>
--->
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
